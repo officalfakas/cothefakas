@@ -32,5 +32,5 @@ HTML • CSS • JavaScript • React • PHP • MySQL • Shopify • Flutterw
 
 ---
 
-📫 Contact: your@email.com  
-🌍 Portfolio: coming soon
+📫 Contact: officialfakas@gnail.com
+🌍 Portfolio: https://olabiyifarouk54.wixsite.com/thefakas-co
